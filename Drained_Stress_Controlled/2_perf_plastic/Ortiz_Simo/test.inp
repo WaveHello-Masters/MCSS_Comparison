@@ -1,0 +1,5 @@
+output.txt
+*TriaxialS1
+1000 50 500000 : 10          # ninc maxiter dtime : every
+-25          # ddstress_1
+*End

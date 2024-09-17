@@ -1,0 +1,2 @@
+#!/bin/bash
+/mnt/data/the_deep/Geotech_Research/Critical_Soil_Models/MohrCoulomb_StrainSoft/build/gfortran_E167FD2A985B468F/app/MCSS_incrementalDriver
