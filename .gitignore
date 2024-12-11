@@ -1,0 +1,4 @@
+*.inp
+*.bat
+*.txt
+/Drained_Strain_Controlled/old_models/*
