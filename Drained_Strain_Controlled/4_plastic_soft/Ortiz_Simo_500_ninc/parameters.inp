@@ -1,6 +1,6 @@
 Ortiz_MCSS          # Model name
 13          # Number of properties
-2500          # Shear Modulus (kPa)
+1041.6666666666667          # Shear Modulus (kPa)
 0.2          # poisson ratio
 0          # peak cohesion
 0          # residual cohesion
